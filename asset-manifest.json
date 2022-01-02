@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/light-bulb-react/static/css/main.3375fb87.css",
-    "main.js": "/light-bulb-react/static/js/main.416c18c4.js",
+    "main.js": "/light-bulb-react/static/js/main.41221378.js",
     "static/js/787.b47ecee4.chunk.js": "/light-bulb-react/static/js/787.b47ecee4.chunk.js",
     "index.html": "/light-bulb-react/index.html",
     "main.3375fb87.css.map": "/light-bulb-react/static/css/main.3375fb87.css.map",
-    "main.416c18c4.js.map": "/light-bulb-react/static/js/main.416c18c4.js.map",
+    "main.41221378.js.map": "/light-bulb-react/static/js/main.41221378.js.map",
     "787.b47ecee4.chunk.js.map": "/light-bulb-react/static/js/787.b47ecee4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3375fb87.css",
-    "static/js/main.416c18c4.js"
+    "static/js/main.41221378.js"
   ]
 }
